@@ -1,6 +1,6 @@
 ## Hola,This is Basheer 👋
 #### I am javascript developer and AI/ML enthusiast. 
- ![Basheer's github stats](https://github-readme-stats.vercel.app/api?username=Basheer3648734&show_icons=true&theme=radical&show_owner=true&hide_title=true&card_width=1&hide=stars)
+ ![Basheer's github stats](https://github-readme-stats.vercel.app/api?username=Basheer3648734&show_icons=true&theme=radical&show_owner=true&hide_title=true&card_width=1&count_private=true&hide=stars)
 
 
 - 🔭 I’m currently working on personal projects
