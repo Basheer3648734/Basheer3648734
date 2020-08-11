@@ -1,16 +1,20 @@
-### Hi there 👋
+## Hola,This is Basheer 👋
+#### I am javascript developer and AI/ML enthusiast. 
+ ![Basheer's github stats](https://github-readme-stats.vercel.app/api?username=Basheer3648734&show_icons=true&theme=radical&show_owner=true&hide_title=true&card_width=1&hide=stars)
 
-<!--
-**Basheer3648734/Basheer3648734** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on personal projects
+- 🌱 I’m currently learning javascript projects
+- 👯 I’m looking to collaborate on open source projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+I create full-stack web-applications specialized in MERN stack. I am currently into Data Science stuff 📚📚
+
+### Top languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Basheer3648734&layout=compact)
+
+### Wanna connect with me 😎😎
+
+[<img alt="linkedin" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="24px" align="left"/>](https://www.linkedin.com/in/mohammed-abdul-basheer-1717b61a1/)
+[<img alt="linkedin" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" width="24px" align="left"/>](https://twitter.com/MABASHEER8)
+[<img alt="linkedin" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" width="24px" align="left"/>](https://www.instagram.com/basheer_0111/)
