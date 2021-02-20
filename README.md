@@ -1,7 +1,6 @@
 ## Hola,This is Basheer 👋
 #### I am javascript developer and AI/ML enthusiast. 
 
-![image](https://www.linkpicture.com/q/Java-script-developer_1.gif)
 
 
 
