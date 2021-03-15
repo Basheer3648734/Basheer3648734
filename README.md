@@ -13,7 +13,7 @@
 - 👯 I’m looking to collaborate on open source projects
 
 
-I create full-stack web-applications specialized in MERN stack. I am currently into Data Science stuff 📚📚
+I create full-stack web-applications specialized in MERN stack. I am currently into information security stuff🤠🤠
 
 ### Top languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Basheer3648734&layout=compact)
